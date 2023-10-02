@@ -1,0 +1,52 @@
+.menu{
+    border: solid black;
+    width: 20%;
+    height: 100vh;
+}
+.add{
+    position: relative;
+    margin-top:60%;
+    margin-bottom: 30px;
+    width: 100%;
+    padding: 3%;
+    background-color: #000D3D;
+    color: white;
+
+}
+.btn{
+    width: 80%;
+    padding: 3%;
+    margin-top: 10px;
+    cursor: pointer;
+    background-color: rgb(40, 184, 210);
+    border: solid rgb(40, 184, 210) ;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: 2px 4px rgb(145, 145, 145) ;
+    
+}
+
+.AddForm{
+background-color: #c1bebe;
+width: 100%;
+text-align: center;
+border:#D9D9D9 ;
+border-radius: 10px 10px 10px 10px;
+}
+.jmenoPredmetu{
+   width: 80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 10px;
+}
+.btnAdd{
+    padding: 10px;
+    color: white;
+    background-color: #C74B4B;
+    border: solid #C74B4B ;
+    border-radius: 5px 5px 5px 5px;
+    box-shadow: #C74B4B;
+    cursor: pointer;
+}
+.color{
+    margin-left: 10px;
+}
